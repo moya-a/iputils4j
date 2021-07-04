@@ -1,6 +1,6 @@
 package fr.amoya.iputils4j.command;
 
-import fr.amoya.iputils4j.command.Result.PingResult;
+import fr.amoya.iputils4j.command.result.PingResult;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.extern.log4j.Log4j2;

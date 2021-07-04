@@ -1,4 +1,4 @@
-package fr.amoya.iputils4j.command.Result;
+package fr.amoya.iputils4j.command.result;
 
 public class PingResult implements CommandResult{
 }
